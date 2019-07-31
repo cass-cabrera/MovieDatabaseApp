@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="create_acct">Create An Account</string>
+    <string name="login">Login</string>
+    <string name="rate">Rate It!</string>
+    <string name="admin">Admin Login</string>
+    <string name="create_name_hint">Create Your Name:</string>
+    <string name="create_email_hint">Enter Your Email:</string>
+    <string name="create_password_hint">Create a Password:</string>
+    <string name="create_acct_button">Create</string>
+    <string name="log_into_acct">Login To Your Account</string>
+    <string name="login_password">Enter Your Password:</string>
+    <string name="login_button">Login</string>
+    <string name="admin_login_greeting">Administration Login</string>
+    <string name="admin_greeting">Welcome Admin, Please Login</string>
+    <string name="admin_log_prompt">What would you like to do?</string>
+    <string name="admin_log_option1">Add Movie</string>
+    <string name="admin_log_option2">View Activity Log</string>
+    <string name="movie_name">Movie Name:</string>
+    <string name="movie_date">Movie Release Date:</string>
+    <string name="movie_description">Movie Description:</string>
+    <string name="rate_movie">Rate Movie</string>
+    <string name="profile_butt">View Profile</string>
+    <string name="movie_option_prompt">Please Select A Movie</string>
+    <string name="selection">Start Typing Here</string>
+    <string name="rate_dis">Rate the Movie (1-10):</string>
+    <string name="welcome">Welcome to FMDB</string>
+    <string name="log_greeting">FMDB Activity Log</string>
+    <string name="thanossnap">Delete Movie</string>
+    <string name="homeeee">Go Home</string>
+    <string name="thisIsTedious">Menu</string>
+    <string name="exitt">Sign Out</string>
+
+</resources>
